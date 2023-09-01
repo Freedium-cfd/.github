@@ -4,7 +4,7 @@
 
 ## FAQ
 ### Why do we create Freedium?
-In mid-June to mid-July 2021, Medium changed paywall method, and all old paywall bypass methods we had stopped working. So I became obsessed with the idea of creating a service to bypass Medium's paywalled posts. Honestly I am not a big fan of Medium, but some times I read articles to levelup my knowledge.
+In mid-June to mid-July 2023, Medium changed paywall method, and all old paywall bypass methods we had stopped working. So I became obsessed with the idea of creating a service to bypass Medium's paywalled posts. Honestly I am not a big fan of Medium, but some times I read articles to levelup my knowledge.
 
 ### How does Freedium work?
 In short, we reverse-engineered Medium.com's GraphQL endpoints and created a custom parser and toolkits to render Medium posts. Sometimes we got a bugs because of the self-written parser, but we are working to make Freedium bug-free.
