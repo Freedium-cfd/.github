@@ -21,7 +21,19 @@ Speed up Freedium, and probably create open source Medium frontend in next life
 ---
 
 ## Usage
-### Browser extension:
+### Browser extension - Open in Freedium:
+Huge thanks to `wywywywy`
+
+[link-chrome]: https://chrome.google.com/webstore/detail/open-in-freedium/giibjnmcmkglpdichdiabecdkeefknak 'Version published on Chrome Web Store'
+[link-firefox]: https://addons.mozilla.org/en-GB/firefox/addon/open-in-freedium/ 'Version published on Mozilla Add-ons'
+
+[<img src="https://raw.githubusercontent.com/alrra/browser-logos/90fdf03c/src/chrome/chrome.svg" width="48" alt="Chrome" valign="middle">][link-chrome] and other Chromium browsers
+
+[<img src="https://raw.githubusercontent.com/alrra/browser-logos/90fdf03c/src/firefox/firefox.svg" width="48" alt="Firefox" valign="middle">][link-firefox] ~including Firefox Android~ WIP
+
+Source code: https://github.com/wywywywy/freedium-browser-extension
+
+### User Script
 Huge thanks to `mathix420`
 
 You can use this Violentmonkey/Tampermonkey user script to automatically redirect Medium pages to [Freedium](https://freedium.cfd/):
