@@ -40,7 +40,8 @@ You can use this Violentmonkey/Tampermonkey user script to automatically redirec
 https://gist.github.com/mathix420/e0604ab0e916622972372711d2829555
 
 ### Bookmark:
-Huge thanks to `blazeknifecatcher`. Source: https://www.reddit.com/r/paywall/comments/15jsr6z/bypass_mediumcom_paywall/
+Huge thanks to `blazeknifecatcher`. Source: https://www.reddit.com/r/paywall/comments/15jsr6z/bypass_mediumcom_paywall/ 
+That subreddit was banned (here is archive.today/archive.is link): https://archive.is/9epAl
 
 To create bookmark that redirects current Medium page to Freedium, create a new bookmark, but instead of adding the URL, add this:
 
