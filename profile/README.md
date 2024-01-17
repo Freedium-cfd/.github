@@ -2,6 +2,8 @@
 
 <h1 align="center">Freedium - Your paywall breakthrough for Medium!</h1>
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zhymabekroman)
+
 ## FAQ
 ### Why do we create Freedium?
 In mid-June to mid-July 2023, Medium changed paywall method, and all old paywall bypass methods we had stopped working. So I became obsessed with the idea of creating a service to bypass Medium's paywalled posts. Honestly I am not a big fan of Medium, but some times I read articles to levelup my knowledge.
